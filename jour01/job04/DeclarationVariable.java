@@ -2,6 +2,6 @@ package job04;
 
 public class DeclarationVariable {
     public static void main(String[] args) {
-        System.out.print("Hello World !");
+        int age = 0, num = 0, days = 0;
     }
 }

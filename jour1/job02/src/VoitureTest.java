@@ -2,6 +2,8 @@ public class VoitureTest {
 
     public static class Voiture {
         int vitesse = 0;
+        String marque = "BMW";
+        String couleur = "rouge";
 
         public void demare() {
             System.out.println("La voiture démarre.");

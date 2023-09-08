@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class ListeEntiersExercice {
     public static void main(String[] args) {
         int total = 0;
 
